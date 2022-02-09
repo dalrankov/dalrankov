@@ -1,8 +1,8 @@
-## Hi! I'm Dalibor.
+# Hi there! I'm Dalibor 🙌
 
-To reach me and check out my resume visit [dalrankov.me/about-dalibor.html](https://dalrankov.me/about-dalibor.html) 😊
+To reach me or check out my resume visit [dalrankov.me/about-dalibor.html](https://dalrankov.me/about-dalibor.html) 😊
 
-Feel free to get in touch with me if you have some cool idea, commercial or open-source. 😎
+Feel free to get in touch with me if you have some cool idea - commercial or open-source. 😎
 
 ## Recent blog posts
 
