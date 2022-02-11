@@ -1,6 +1,6 @@
 # Hi there! I'm Dalibor 🙌
 
-To reach me or check out my resume visit [dalrankov.me/about-dalibor.html](https://dalrankov.me/about-dalibor.html) 😊
+To reach me or check out my resume visit [dalrankov.me](https://dalrankov.me) 😊
 
 Feel free to get in touch with me if you have some cool idea - commercial or open-source. 😎
 
