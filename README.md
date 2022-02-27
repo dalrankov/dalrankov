@@ -4,7 +4,7 @@ To reach me or check out my resume visit [dalrankov.me](https://dalrankov.me) �
 
 Feel free to get in touch with me if you have some cool idea - commercial or open-source. 😎
 
-## Recent blog posts
+## Recent Blog Posts & Code Snippets
 
 <!--START_SECTION:posts-->
 * [Ship faster - Dockerize Nginx proxy &amp; Let’s encrypt SSL](https://dalrankov.me/2022/02/09/nginx-reverse-proxy-plus-lets-encrypt-ssl-with-docker.html)
