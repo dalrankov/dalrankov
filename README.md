@@ -7,6 +7,7 @@ Feel free to get in touch with me if you have some cool idea - commercial or ope
 ## Recent Blog Posts & Code Snippets
 
 <!--START_SECTION:posts-->
+* [.NET GraphQL Hello World Example](https://dalrankov.me/2022/03/02/dotnet-graphql-hello-world.html)
 * [EF Core Migration Hosted Service](https://dalrankov.me/2022/02/27/ef-core-migration-hosted-service.html)
 * [Ship faster - Dockerize Nginx proxy &amp; Let’s encrypt SSL](https://dalrankov.me/2022/02/09/nginx-reverse-proxy-plus-lets-encrypt-ssl-with-docker.html)
 <!--END_SECTION:posts-->
